@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e652ebba-3032-4d8f-9c1c-a41d22be1c40" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1j9PNuQw2yr90cCCDJV9UEyo1OG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Education\IT\Flutter\EcommerceApp\e_shop-master\android\app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e652ebba-3032-4d8f-9c1c-a41d22be1c40" name="Default Changelist" comment="" />
+      <created>1603213297705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603213297705</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add Project">
+      <created>1603217438411</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603217438412</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Add Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="58" key="#Plugins" timestamp="1603213890648">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="58" key="#Plugins/0.0.1536.834@0.0.1536.834" timestamp="1603213890648" />
+    <state x="371" y="0" key="CommitChangelistDialog2" timestamp="1603217431900">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="371" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1603217431900" />
+    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1603217896725">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1603217896725" />
+    <state x="636" y="315" key="Github.ShareDialog" timestamp="1603250713972">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="636" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1603250713972" />
+    <state width="1491" height="202" key="GridCell.Tab.0.bottom" timestamp="1603255562603">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="202" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1603255562603" />
+    <state width="1491" height="202" key="GridCell.Tab.0.center" timestamp="1603255562603">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="202" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1603255562603" />
+    <state width="1491" height="202" key="GridCell.Tab.0.left" timestamp="1603255562603">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="202" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1603255562603" />
+    <state width="1491" height="202" key="GridCell.Tab.0.right" timestamp="1603255562603">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="202" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1603255562603" />
+    <state x="277" y="62" key="SettingsEditor" timestamp="1603258998797">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1603258998797" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1603248987649">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1603248987649" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1603213797908">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1603213797908" />
+  </component>
+</project>

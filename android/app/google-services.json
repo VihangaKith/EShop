@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "804195584465",
+    "firebase_url": "https://e-commerceapp-3ecbc.firebaseio.com",
+    "project_id": "e-commerceapp-3ecbc",
+    "storage_bucket": "e-commerceapp-3ecbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804195584465:android:f7874b4e7f75c6ec49f8f0",
+        "android_client_info": {
+          "package_name": "com.vihanga.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804195584465-3vr9h2hs2eo03h56e0loe1cvm9q4l10g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIzrVfxwYuenj_wta2IIgXH4fi2_VPrwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804195584465-3vr9h2hs2eo03h56e0loe1cvm9q4l10g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
